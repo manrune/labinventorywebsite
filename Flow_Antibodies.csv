@@ -1,0 +1,217 @@
+1,A4B7,APC,,,?,,100 tests,,?,1,?,?,Merida,Big box 2
+2,CD2 ,APC-H7,RPA-2.10,Ms IgG1 kappa,BD Pharmingen,1mL,50 tests,,556608,2,7/2016,12/31/2017,Merida,Big Box 1
+3,CD2,PE-Cy7,RPA-2.10,,Biolegend,1mL,50 Tests,,300222,1,12/14/17,?,Merida,MHCII + RTE Panel
+4,CD2,PE,RPA-2.10,Ms IgG1 kappa,BD Pharmingen,2mL,100 Tests,,555327,2,4/15/09,5/5/14,Merida,Big Box 1
+5,CD2,APC-H7,RPA-2.10,Ms IgG1 Kappa,BD Pharmingen,0.5 mL,100 Tests,5 uL/test (use 2.5),562638,1,,,,
+6,CD3,Pacific Blue,SP342,Ms IgG1 ?,BD Pharmingen,.5mL,,.2mg/mL,558124,3,11/30/10,8/31/12,Merida,Big box 1
+7,CD3,APC,SP34-2,Ms IgG1 ?,BDPharm,1mL,20uL,,557597,1,6/10/08,10/31/10,Merida,Big box 1
+8,CD3,FITC,SP34,Ms IgG3 ?,BDPharm,1mL,20uL,,556611,1,2/27/02,8/31/04,Merida,Big box 1
+9,CD3 ,PerCP,SP34-2,Ms IgG1 ?,BD Pharmingen,1mL,50 tests,,552851,1,1/22/09,11/30/10,Merida,Big box 1
+10,CD3,BV786,Sp34-2,Mg IgG1 Lambda,BD Pharmingen,0.25 mL,50 tests,5 uL/test,563918,3,?,4/30/14,Merida,Big box 1 & MHCII + RTE Panel
+11,CD4,PerCP-CY,L200,Ms IgG1 kappa,BD Pharmingen,1mL,50tests,,552838,9,6/15/11,7/31/12,Merida,Big Box 1 & MHCII + RTE Panel
+12,CD4,RPE,MT310,IgG1 K,Dako,1 mL,,,R0805,1,?,?,Merida,Big Box 1
+13,CD4,FITC,L200,Ms IgG1 kappa,BD Pharmingen,1mL,50 tests,,550628,1,11/1/19,11/30/22,Merida,MHCII + RTE Panel
+14,CD4,AF700,OKT4,IgG2b K,Biolegend,200uL,,.5mg/ml,317426,1,?,?,Merida,Big box 1
+15,CD4,AF-647,OKT4,IgG2b Kappa,Biolegend,125uL,5uL,,317421,1,8/21/08,?,Merida,Big box 1
+16,CD4,AF-647,OKT4,IgG2b Kappa,Biolegend,500 uL,5uL,,317422,1,3/3/09,?,Merida,Big box 1
+17,CD4,APC-H7,L200,,BD Pharmingen,250 uL,,,560837,1,?,9/30/13,Merida,Big box 1
+18,CD4,APC,L200,Ms IgG1 kappa,BD Pharmingen,1 mL,50 tests,,551980,1,8/21/08,12/31/10,Merida,MHCII + RTE Panel
+19,CD4,PE-Cy-7,SK3,Ms IgG1 kappa,BD Pharmingen,.5mL,100 tests,,557852,1,9/2/05,11/30/06,Merida,Bog box 1
+20,CD4,PE/Cy5,OKT4,IgG2b K,Biolegend,2mL,100 Tests,25 ug/mL,317412,1,,,,
+21,CD4,BV510,,,BD,50 tests,5 uL,,,1,3/3/16,1/31/18,Merida,MHCII + RTE Panel
+22,CD4,BV786,L200,,BD Pharmingen,50 tests,5 uL,,563914,1,3/3/16,9/30/16,Merida,MHCII + RTE Panel
+23,CD8,APC,SK1,Ms IgG1 kappa,Becton Dickinson,.5mL,5uL,,340584,1,,,,
+24,CD8,FITC,,,,,,,,1,,,,
+25,CD8,APC-Cy7,SK1,Ms IgG1 kappa,BDPharmingen,.5mL,100tests,,557834,2,?,9/30/09,Merida,Big box 1
+26,CD8,PerCP-Cy5.5,,,BD,1 mL,,,341049,5,4/26/12,5/31/13,Merida,Big box 1
+27,CD8,Qdot655,,,?,,,,,,,,,
+28,CD8,Percp,SK1,Ms IgG1 kappa,BDBioscience,2mL,20uL,,347314,1,,,,
+29,CD8,PE-Cy7,SK1,Ms IgG1 kappa,BDBioscience,.5mL,5uL,,335787,3,,,,
+30,CD8,PE-Cy7,RPA-T8,Ms IgG1 kappa,BD Bioscience,.5mL,100 tests,,557746,2,?,4/302010,Merid,bIG BOX 31
+31,CD8,APC-H7,SK1,,BDPharmingen,0.25 mL,50 tests,,561423,1,9/24/13,11/30/15,Merida,Big box 1
+32,CD8,RPE,CloneDK25,IgG1 K,Dako,1mL,,,R0806,1,4/25/03,?,Merida,Big box 1
+33,CD8,PerCP-Cy5.5,,,,40 uL,,,,1,8/3/10,?,Merida,Big box 1
+34,CD10 ,FITC,Hl10a,Ms IgG1 kappa,Becton Dickinson,1mL,50 tests,,340925,1,?,6/30/07,Merida,Big box 1
+35,CD10 ,PE,,,Becton Dickinson,1mL,50 tests,,557143,1,7/2/15,2/29/20,Merida,Big box 1
+36,CD11b,PerCP/Cy5.5,ICRF 44,,Biolegend,500 uL,100 tests,200 ug/mL,301328,1,06/14,?,Merida,Big Box 1
+37,CD11b,PE-cy7,ICRF 44,Ms IgG1 kappa,BD Pharmingen,.5mL,100 tests,,557743,2,1/4/06,4/30/07,Merida,Big Box 1
+38,CD11c,APC,S-HCL-3,IgG2b K,Beckton Dickinson,500 uL,,.25mg/ml,340544,2,4/06,10/31/07,Merida,Big box 1
+39,CD11c,APC,3.9,,Biolegend,500 uL,5uL,300 ug/ml,301610,1,3/3/16,?,Merida,Big box 1
+40,CD11c,PE-Cy5,3.9,IgG1 K,Biolegend,.5mL,20uL,100 ug/mL,301609,2,4/7/10,?,Merida,Big box 1 & MHCII + RTE Panel
+41,CD14,PE-Cy7,M5E2,IgG2a ?,Biolegend,2mL,100 tests,50 ug/mL,301814,3,,,,
+42,CD14,Pacific Blue,M5E2,,BDPharmigen,0.5 mL,,0.2 mg/mL,558121,1,?,9/30/14,Merida,Big box 1
+43,CD14,PerCP-Cy5.5,M5E2,,BDPharmigen,0.125 mL,,0.2 mg/mL,561116,3,?,11/30/14,Merida,Big box 1
+44,CD14,PE-Cy7,M5E2,IgG2a ?,Biolegend,.5mL,,,301814,1,?,?,Merida,MHCII + RTE Panel
+45,CD16,APC-Cy7,3G8,IgG1 K,Biolegend,2mL,20uL,50 ug/mL,302018,1,?,?,Merida,Big box 1
+46,CD16,APC,3G8,,Biolegend,0.5 mL,100 tests,0.2 mg/mL,302012,1,6/14,?,Merida,MHCII + RTE Panel
+47,CD16,AF700,3G8,Ms 1gG1 kappa,BD,0.25 mL,50 tests,5ul/test (use 2.5),560713,1,,,,
+48,CD16,PE-Cy7,3G8,Ms 1gG1 kappa,BD,0.25 mL,5uL,5ul/test (use 2.5),560716,1,,,,
+49,CD19,PE,,,?,.5mL,10uL,,?,1,,,,
+50,CD19,APC,,,Immunotech,1mL,10uL,,PNIM2470,2,,,,
+51,CD19,PE,,,NHP,1mL,100 tests,,?,1,,,,
+52,CD19,PE,,,Beckman Coulter,.5mL,5uL,,6699509C,1,,,,
+53,CD19,FITC,CB19,,Abcam,,,,,1,,,,
+54,CD20,APC-Cy7,2H7,IgG2b ?,Biolegend,.5mL,100 tests,50 ug/mL,302314,3,?,?,Merida,Big Box 1 & MHCII + RTE Panel
+55,CD20,PE-Cy5,,,BDPharmigen,2 mL,100 tests,,555624,2,3/15/12,1/31/13,Merida,Big Box 1
+56,CD20,FITC,2H7,IgG2b ?,,2mL,100 Tests,,,1,3/3/16,7/31/18,Merida,Big Box 1
+57,CD20,APC-Cy7,2H7,IgG2b ?,Biolegend,2mL,100 tests,50 ug/mL,302314,3,,,,
+58,CD25,PE,2A3,Ms IgG1 kappa,BD,,20uL,,341009,1,3/3/09,10/31/10,Merida,Big box 1
+59,CD25,FITC,2A3,Ms IgG1 kappa,BD,.5mL,,,335807,1,5/7/09,2/28/10,Merida,Big box 1
+60,CD25,PE-CY7,2A3,Ms IgG1 kappa,BD,.5mL,5uL,,335789,1,?,10/31/12,Merida,Big box 1
+61,CD25(Anit IL 2R),FITC,2A3,Ms IgG1 kappa,BD,2mL,20uL,,347643,1,,,,
+62,CD27,PE/Cy7,M-T271,Ms IgG1 kappa,BD Pharmingen,.25mL,50 tests,,560609,1,2/2/11,9/30/12,Merida,Big box 1
+63,CD31,APC,WM59,Ms IgG1 kappa,Biolegend,125 uL,25 tests,5 uL/test,303115,2,7/16,?,Merida,Big box 2 & MHCII + RTE Panel
+64,CD34,PE,563,Ms IgG1 kappa,BDPharmigen,1ml,50 Tests,,550619,1,?,11/30/13,Merida,MHCII + RTE Panel
+65,CD43,PE,DFT1,IgG1,Beckman Coulter,2mL,20uL,,PNA32560,2,10/28/11,8/29/13,Merida,Big Box 1
+66,CD45,PE,TU116,Ms IgG1 kappa,BD Pharmingen,1ml,50 tests,,557059,1,2/8/06,9/19/08,Merida,Big box 1
+67,CD45,PErCP,TU116,Ms IgG1 kappa,BDPharmigen,1ml,50 Tests,,557513,1,2/24/10,7/31/11,Merida,Big box 1
+68,CD45,PErCP,DO58-1283,Ms IgG1 kappa,BDPharmigen,1ml,50 Tests,,558411,1,3/3/9,3/31/11,Merida,Big box 1
+69,CD45RA,PE,5H9,Ms IgG1 kappa,BDPharmigen,1ml,50 Tests,,556627,1,,,,
+70,CD45RA,APC,,,CaLtag,.5mL,100 tests,,MHCD45RA05,2,,,,
+71,CD45RA,APC-H7,5H9,Ms IgG1 kappa,BDPharmigen,50 test,5uL,,561212,1,,,,
+72,CD45RA,FITC,,,,,,,,1,,,,
+73,CD56,PE,MY31,Ms IgG1 kappa,BDPharmigen,1mL,50 Tests,,556647,1,,,,
+74,CD62L,PE,Sk11,IgG2a K,BD Pharmingen,1mL,50 tests,,557341,1,11/22/06,6/30/08,Merida,Big Box 1
+75,CD62L,PE,,,Becton Dickinson,,50 tests,0.01 mg/mL,341012,1,?,5/31/07,Merida,Big Box 1
+76,CD69,APC,FN50,,BDPharmigen,0.25 mL,50 tests,,560711,2,?,5/31/16,Merida,Big box 2
+77,CD69,PerCP-Cy5.5,FN50,Ms IgG1 kappa,BDPharmigen,.25mL,50 Tests,,560738,1,?,9/30/13,Merida,Big box 2
+78,CD69,FITC,FN50,Ms IgG1 kappa,BDPharmigen,1mL,50 Tests,,557049,1,?,8/31/13,Merida,Big box 2
+79,CD80,PE,2D10,,Biolegend,0.5 mL,100 tests,0.2 mg/mL,305208,1,6/2014,?,Merida,Big box 1
+80,CD86,FITC,,,BDPharmigen,1 mL,50 tests,,557343,1,,,,
+81,CD95,FITC,DX2,Ms IgG1 kappa,BDPharmigen,1mL,50 Tests,,556640,1,6/2/06,12/25/10,Merida,Big box 2
+82,CD103,FITC,2G5,,Beckman Coulter,2mL,20uL/test,,IM1856U,1,1/13/09,3/1/11,Merida,Big box 2
+83,CD116,PE-Cy7,27-35,Ms IgG2b Kappa,BD Pharmigen,100 tests,5uL,,555743,1,,,,
+84,CD123,PE,7G3,Ms IgG2a kappa,BDPharmigen,1mL,,.2mg/mL,554529,1,11/17/06,3/31/12,Merida,Big box 2
+85,CD123,PerCP-CY5.5,7G3,Ms IgG2a Kappa,BD Pharmingen,2mL,100 Tests,,558714,1,?,4/30/11,Merida,Big box 2
+86,CD123,APC,7G3,,BD Pharmingen,2 mL,100 tests,,560087,1,?,6/30/15,Merida,Big box 2
+87,CD154,AF488,24-31,IgG1 kappa,Biolegend,125uL,5uL,,310815,1,7/9/09,?,Merida,Big box 2
+88,CD154,FITC,TRAP1,Ms IgG1 kappa,BDPharmigen,1mL,50 Tests,,558988,1,7/27/10,10/31/12,Merida,Big box 2
+89,CD159A,FITC,,,Mitenyi Biotec,,,,130098817,1,?,4/9/14,Merida,Big box 2
+90,Cd161,APC,DX12,Ms IgG1 kappa,BD Pharmigen,2mL,20ul,,550968,1,?,9/30/10,Merida,Big box 2
+91,CD193,AF647,5 E8,IgG2b K,Biolegend,125uL,5uL,50ug/mL,310709,1,3/31/10,?,Merida,Big box 2
+92,CD193,PE,5 E8,IgG2b K (Mouse),Biolegend,.5mL,20uL,25ug/mL,310705,1,?,?,Merida,Big box 2
+93,CD196,PE,11A9,Ms IgG1 kappa,BDPharmingen,1mL,50tests,,551773,2,6/18/09,9/30/13,Merida,Big box 2
+94,CD197 (CCR7),FITC,150503,IgG2a,R&D Systems,,,,FAB197F,2,1/4/06,11/07,Merida,Big box 2
+95,CD212,PE,,,BD Pharmingen,2 mL,100 tests,,556065,1,9/24//13,4//30/19,Merida,Big box 2
+96,CD283 (TLR3),PE,TLR3.7,,eBioscience,0.125 mL,,0.2 mg/mL,12903980,2,2/15/12,?,Merida,Big box 2
+97,CD283 (TLR3),APC,,,,,,,46-7222-82,1,?,?,Merida,Big box 2
+98,CD284 (TLR4),PE-Cy7,HTA125,IgG2a kappa,eBioscience,.125mL,5uL,,25991741,2,9/18/17,2/29/20,Merida,MHCII + RTE Panel
+99,CD284 (TLR4),AF700,HTA125,IgG2a,eBioscience,.5mL,5ul,,56991742,1,?,?,Merida,Big box 2
+100,CD284 (TLR4),APC Conjugated,HTA125,IgG2a,eBioscience,5mL,5uL,,17991742,1,?,?,Merida,Big box 2
+101,CD285 (TLR5),FITC,,IgG2a,Abcam,,,.5ng/ml,ab25929,2,4/7/10,?,Merida,Big box 2
+102,CD289 (TLR9),PE,,,Thermo Scientific,,,,MA516182,1,?,?,Merida,Big box 2
+103,CD294 (CRTH2),AF647,BM16,IgG2a,BDPharmigen,.5mL,,.2mg/mL,558042,1,7/27/10,2/28/12,Merida,Big box 2
+104,CD294 (CRTH2),APC,,,,,,,,1,,,,
+105,CX3CR1,AF647,2A9-1,IgG2b K (Rat),Biolegend,125uL,25tests,100ug/mL,341607,1,3/1/11,?,Merida,Big box 2
+106,FOXP3,AF488,150D,Mouse IgG1 ?,Biolegend,100 tests ,5uL/test,,320012,4,2009-2012,?,Merida,Big box 2
+107,FOXP3,AF647,150D,Mouse IgG1 ?,Biolegend,25,5uL/test,,320013,3,8/09,?,Merida,Big box 2
+108,HLA-Dr,PerCP-CY5.5,,,BDPharmigen,1 mL,50 tests,,552764,1,?,5/31/14,Merida,Big box 2
+109,HLA-Dr,FITC,G46-6,,BDPharmigen,0.5 mL,25 tests,,560944,1,6/23/14,2/28/19,Merida,Big box 2
+110,HLA-DR,V500,G46-6,Ms IgG2a kappa,BDHorizon,.5mL,5uL,,561224,1,?,9/30/11,Merida,Big box 2
+111,HLA-DR,AF647,L243,IgG2a K,Biolegend,.5mL,5uL,,307622,1,10/8/08,?,Merida,Big box 2
+112,HLA-DR,FITC,L243(G46-6),Ms IgG2a kappa,BD,,20uL,0.025 mg/mL,347363,1,11/16/06,4/30/08,Merida,Big box 2
+113,HLA-DR,BV421,G46-6,Ms IgG2a kappa,BD,0.5 mL,100 tests,5 uL/test (use 2.5),562804,2,?,10/31/17,Merida,MHCII + RTE Panel
+114,IFN-y,PE-Cy7,4S.B3,,BDPharmigen,0.5 mL,,0.2 mg/mL,557844,1,,,,
+115,IgG1,APC-H7,MOPC-21,,BDPharmingen,0.5 mL,,0.2 mg/mL,560167,1,,,,
+116,IgG1,PE-CY7,MOPC-21,,Biolegend,125 uL,25 tests,200 ug/mL,400125,1,,,,
+117,IgG1,AF647,MOPC-21,ICFC,Biolegend,25 tests,5uL/test,,400135,1,,,,
+118,IgG1,AF647,MOPC-21,ICFC,Biolegend,100 tests ,5uL/test,,400136,1,,,,
+119,IgG1,PE,,,BD,,,,340270,1,10/2/08,?,Merida,Big box 2
+120,IgG1K,AF488,MOPC-21,ICFC,Biolegend,.5mL,5uL/test,,400134,2,,,,
+121,IgG1K,PE-CY7,,,BDPharmigen,0.5 mL,,0.2 mg/mL,557645,1,,,,
+122,IgG1k,PE-CY7,MOPC-21,Ms IgG1 kappa,BDPharmigen,.5mL,5uL,,557646,2,,,,
+123,IgG1k,PE,MOPC-21,Ms IgG1 kappa,BDPharmigen,.5mL,,.2mg/mL,554680,1,,,,
+124,IgG1k,FITC,MOPC-21,Ms IgG1 kappa,BDPharmigen,.5mL,,.2mg/mL,554679,2,,,,
+125,IgG4,PE,,,Southern Biotech,,,,919009,1,?,?,Merida,Big box 2
+126,IgM,FITC,G20-127,Ms IgG1 kappa,BD Pharmigen,2mL,100 tests,,555782,1,?,7/31/15,Merida,Big box 2
+127,IgM,Biotin,G20-127,Ms IgG1 kappa,BD Pharmigen,1mL,,.5mg/mL,555781,1,?,4/30/13,Merida,Big box 2
+128,IL-4,PECy7,8D4-8,Ms IgG1 kappa,BDPharmigen,.25mL,50tests,,560672,1,7/28/10,6/30/2011,Merida,Big box 2
+129,IL-4,PECy7,8D4-8,IgG1 kappa,eBioscience,.125mL,5uL,,25704941,1,7/21/09,?,Merida,Big box 2
+130,IL-5,PE,JE51-39D10,IgG2a K,Biolegend,2mL,100tests,,500904,1,7/9/09,?,Merida,Big box 2
+131,IL-6,PE,MQ2-6A3,,BD,1 mL,20 uL,,551473,3,3/3/16,8/31/21,Merida,Big box 2 & MHCII + RTE Panel
+132,IL-8,PE,,,BD Pharmingen,0.5 mL,,0.2 mg/mL,554720,1,,,,
+133,IL-8,PE-CF594,G265-8,Ms IgG2b kappa,BD,0.25 mL,50 tests,5 uL/test (use 2.5),563531,1,11/1/17,6/30/19,Merida,MHCII + RTE Panel
+134,vIL-10,PE,,,BD Pharmingen,2 mL,100 tests,,559337,1,?,2/29/16,Merida,Big box 2
+135,IL-17A,AF647,BL168,IgG1,Biolegend,.5mL,5uL,,512309,1,4/21/09,?,Merida,Big box 2
+136,IL-17A,AF647,ebio64CAP17,IgG1 kappa,eBioscience,.5mL,20uL,,51717871,3,2/15/12,?,Merida,Big box 2
+137,IL-22,PerCP-eflor710,IL22SOP,,eBioscience,.5mL,,,46-7222-82,1,11/15/17,5/18,Merida,MHCII + RTE Panel
+138,Invariant NK Tcell,FITC,6B11,Ms IgG1 kappa,BD Pharmigen,2mL,100 tests,,558371,1,6/2/06,3/31/08,Merida,Big box 2
+139,Streptavidin,FITC,Streptavidin,N/A,BD Pharmigen,1mL,,.5mg/mL,554060,1,11/7/07,7/31/16,Merida,Big box 2
+140,TCRab,FITC,R73,,Biolegend,100uL,,,201105,1,10/16,?,Merida,Big box 2
+141,TCRgd,FITC,5A6.E9,?,Endogen,,200 Tests,,TCR2061,1,?,?,Merida,Big box 2
+142,TCRgd,APC,B1,Ms IgG1 kappa,BD Pharmigen,.5ml,,.2mg/mL,555718,1,1/8/09,5/31/11,Merida,Big box 2
+143,CD20,iSOTYPE,,iGg2A,BD Pharmigen,1 mLL,50 tests,,556632,1,?,9/30/14,Merida,Big Box 1
+144,PerCp-Cy 5.5,Isotype,27-35,IgG2B,BD,2 mL,100 tests,,,1,?,7/31/14,Merida,Big box 1
+145,Apc,iSOTYPE,,IgG2B,BD,2 mL,,,555578,1,?,9/30/14,Merida,Big box 1
+146,PE-Cy7,Isotype,,Rat IgG1 k,BD,0.5 mL,,,557645,1,?,8/31/14,Merida,Big Box 1
+147,PE-Cy7,Isotype,,Mouse IgG1 kq,BD,0.5 mL,,,400125,1,6/2014,?,Merida,Big Box 1
+148,APC-H7,Isotype,,Mouse IgG1 k,BD,0.5 mL,,,56067,1,?,3/31/14,Merida,Big Box 1
+149,Alexa Fluor 488,Isotype,MOPC-21,Mouse IgG1 k,Biolegend,500 uL,5 uL,50 ug/mL,400134,2,2009,?,Merida,Big box 2
+150,PE,Isotype,,Mouse IgG1 k,BD,0.5 mL,,0.2 mg/mL,554680,1,2/21/08,3/31/13,Merida,Big box 2
+151,FITC,Isotype,,Mouse IgG1 k,BD,0.2 mL,,0.5 mg/mL,554679,2,8/31/06,3/31/12,Merida,Big box 2
+152,PE-Cy7,Isotype,,Mouse IgG1 k,BD,0.5 mL,5 uL,,557646,1,4/30/09,10/31/10,Merida,Big box 2
+153,Alexa Fluor 647,Isotype,MOPC-21,Mouse IgG1 k,Biolegend,500 uL,5 uL,,400136,1,2/15/13,?,Merida,Big box 2
+154,Pacigic blue,Isotype,MOPC-21,Mouse IgG1 k,BD,0.5 mL,,0.2 mg/mL,558120,1,?,1/31/14,Merida,Big box 2
+155,FOXP3,AF 488,150D,Mouse IgG1 k,Biolegend,125 uL,5 uL,60 ug/mL,320011,1,9/25/19,?,Merida,Taylor's Ab box
+156,TCR Va7.2,BV 421,3C10,Mouse IgG1 k,Biolegend,125 uL,5 uL,100 ug/mL,351715,1,8/19,?,Merida,Taylor's Ab Box
+157,CD 127,APC/Fire 750,A019D5,,Biolegend,125 uL,5 uL,100 ug/mL,351349,1,8/19,?,Merida,Taylor's Ab box
+158,h/r CCR4,PE,,Mouse IgG2B,R&D Systems,100 tests,,,FAB1567P,1,9/12/19,?,Merida,Sanofi flow Abs
+159,CD 326,BV 786,EBA-1,,BD,125 uL,5 uL,,565686,1,?,8/31/20,Merida,Alveolar & Fibroblast Abs
+160,CD 90,FITC,5E10,,BD,50 uL,,0.5 mg/mL,561969,1,?,7/31/24,Merida,Alveolar & Fibroblast Abs
+161,HLA-DR,PE-Cy7,G46-6,,BD,250 uL,5 uL,,580651,1,?,10/31/20,Merida,Alveolar & Fibroblast Abs
+162,Vimentin,PE,RV202,,BD,250 uL,5 uL,,562337,1,?,2/29/20,Merida,Alveolar & Fibroblast Abs
+163,CD 324 (E-Cadherin),AF 647,67A4,,BD,250 uL,5 uL,,583571,1,?,10/31/21,Merida,Alveolar & Fibroblast Abs
+164,CD 45,PE-CF594,D058-1283,,BD,250 uL,5 uL,,562394,1,?,6/30/20,Merida,Alveolar & Fibroblast Abs
+165,PE,Isotype,,,BD,500 uL,,0.2 mg/mL,554680,1,?,2/28/25,Merida,Alveolar & Fibroblast Abs
+166,FITC,Isotype,,Mouse IgG1 k,BD,1 mL,20 uL,,556649,1,?,12/31/23,Merida,Alveolar & Fibroblast Abs
+167,CD45,BV 421,104,Mouse IgG2a k,Biolegend,250 uL,,0.2 mg/mL,109832,1,?,?,Merida,Mouse Flow Abs
+168,CD 80,FITC,16-10 A1,American Hamster IgG,Biolegend,100 uL,,0.5 mg/mL,104705,1,10/17/19,?,Merida,Mouse Flow Abs
+169,CD 117,Pac Blue,2B8,Rat IgG2b k,Biolegend,200 uL,,0.5 mg/mL,105820,1,?,?,Merida,Mouse Flow Abs
+170,CD3,BV 605,17A2,Rat IgG2b k,Biolegend,125 uL,,100 ug/mL,100237,3,?,?,Merida,Mouse Flow Abs
+171,TCR gd,AF 488,GL3,,Biolegend,200 uL,,0.5 mg/mL,118128,1,?,?,Merida,Mouse Flow Abs
+172,CD 196 (CCR6),BV 785,29-2L17,American Hamster IgG,Biolegend,250 uL,,0.2 mg/mL,129823,1,?,?,Merida,Mouse Flow Abs
+173,IL-12 RB2,AF 488,,,R&D systems,,100 tests,,FAB1959G,1,?,?,Merida,Mouse Flow Abs
+174,CD11c,PE,N418,American Hamster IgG,Biolegend,250 uL,,0.2 mg/mL,117307,1,10/17/19,?,Merida,Mouse Flow Abs
+175,ROR gamma (t),PE,B2D,,eBioscience,500 uL,,0.2 mg/mL,12-6981-82,1,?,10/8/20,Merida,Mouse Flow Abs
+176,CD8a,PE/Dazzle 594,53-6.7,Rat IgG2a k,Biolegend,500 uL,,0.2 mg./mL,100762,1,?,?,Merida,Mouse Flow Abs
+177,AhR,PE-CF594,T49-550,,BD,250 uL,,0.2 mg/mL,585790,1,?,6/6/21,Merida,Mouse Flow Abs
+178,CD127 (IL-7Ra),PE/Cy5,A7R34,Rat IgG2a k,Biolegend,1 mL,,0.2 mg/mL,135016,1,?,?,Merida,Mouse Flow Abs
+179,CD335 (NKp46),APC/Fire 750,29A1.4,Rat IgG2a k,Biolegend,500 uL,,0.2 mg/mL,137632,1,?,?,Merida,Mouse Flow Abs
+180,IL-33Ra,PE/Cy7,DIH4,Rat IgG1 k,Biolegend,500 uL,,0.2 mg/mL,146610,1,?,?,Merida,Mouse Flow Abs
+181,NK-1.1,AF 700,PK136,Mouse IgG2a k,Biolegend,200 uL,,0.5 mg/mL,108730,1,?,?,Merida,Mouse Flow Abs
+182,IL-22,APC,Poly5164,,Biolegend,500 uL,5 uL,40 ug/mL,516409,2,?,?,Merida,Mouse Flow Abs
+183,MHC II,APC,M5/114.15.2,Rat IgG2b k,Biolegend,125 uL,,0.2 mg/mL,107613,1,10/17/19,?,Merida,Mouse Flow Abs
+184,CD45.1,APC/Fire 750,A20,,Biolegend,125 uL,,0.2 mg/mL,110751,1,7/30/19,?,Merida,Mouse Flow Abs
+185,Streptavidin,AF 488,,,Molecular Probes,20 uL,,2 mg/mL,511223,8,?,?,Merida,Streptavidin Aliquot Box
+186,CXCR5,AF 700,MU5UBEE,,invitrogen,100 Tests,5 uL,0.125 ug/test,56-9185-42,2,6/10/20,3/31/24,Merida,Rob Resnick Ab box
+187,CD20,FITC,,,BD,1 mL,20 uL,,556632,3,6/10/20,6/30/21,Merida,Rob Resnick Ab box
+188,CD20,FITC,,,BD, mL,20 uL,,556632,2,6/10/20,12/31/21,Merida,Rob Resnick Ab box
+189,CD3,BV 786,SP34-2,,BD,0.25 mL,5 uL,,563918,4,6/10/20,9/30/21,Merida,Rob Resnick Ab box
+190,CD16,AF 700,3G8,,BD,0.25 mL,5 uL,,560713,4,6/10/20,6/30/25,Merida,Rob Resnick Ab box
+191,CD4,PerCP-Cy5.5,,,BD,1 mL,20 uL,,552838,4,6/10/20,5/31/21,Merida,Rob Resnick Ab box
+192,CD141,BV510,1A4,,BD,0.25 mL,5 uL,,563298,4,6/10/20,11/30/21,Merida,Rob Resnick Ab box
+193,CD14,PE-Cy7,,,BD,0.5 mL,5 uL,,557742,4,6/10/20,9/30/21,Merida,Rob Resnick Ab box
+194,CD279 (PD-1),BV 785,EH12.2H7,Mouse IgG1 k,BioLegend,500 uL,5 uL,100 ug/mL,329930,2,6/10/20,?,Merida,Rob Resnick Ab box
+195,CCR10,APC,6588-5,Armenian Hamster IgG,BioLegend,125 uL,5 uL,50 ug/mL,341505,4,6/10/20,?,Merida,Rob Resnick Ab box
+196,CD8a,BV 570,RPA-T8,Mouse IgG1 k,BioLeegend,500 uL,5 uL,100 ug/mL,301038,4,6/10/20,?,Merida,Rob Resnick Ab box
+197,rCCR4,PE,,Mouse IgG2b,R&D Systems,100 tests,,,FAB1567P,2,6/10/20,?,Merida,Rob Resnick Ab box
+198,HLA-DR,AF 700,G46-6,,BD,0.25 mL,5 uL,,560743,4,6/10/20,6/30/23,Merida,Rob Resnick Ab box
+199,CD3,APC-Cy7,SP34-2,,BD,0.25 mL,5 uL,,557757,4,6/10/20,7/31/21,Merida,Rob Resnick Ab box
+200,CD45RA,PE-Cy7,5H9,,BD,0.5 mL,,0.2 mg/mL,552888,2,6/10/20,8/31/22,Merida,Rob Resnick Ab box
+201,CD183,BV 711,1C6,,BD,0.25 mL,5 uL,,563156,4,6/10/20,8/31/21,Merida,Rob Resnick Ab box
+202,CD56,BV 750,MY31,,BD,0.25 mL,5 uL,,747225,2,6/10/20,6/30/21,Merida,Rob Resnick Ab box
+203,CD38,BB 700,HIT2,,BD,0.5 mL,5 uL,,566445,4,6/10/20,8/31/21,Merida,Rob Resnick Ab box
+204,CD25,BV 750,2A3,,BD,0.25 mL,,0.2 mg/mL,747290,2,6/10/20,6/30/21,Merida,Rob Resnick Ab box
+205,CD11c,APC,,,BD,0.5 mL,5 uL,,340544`,2,6/10/20,8/31/21,Merida,Yellow bag in right drawer
+206,CD123,APC,7G3,,BD,2 mL,20 uL,,560087,2,6/10/20,8/31/21,Merida,Yellow bag in right drawer
+207,CD4,PE-Cy5.5,,,molecular probes,0.5 mL,,,,2,6/10/20,11/30/21,Merida,Yellow bag in right drawer
+208,CD69-ECD,?,,,Beckman Coulter,1 mL,10 uL,,6607110,2,6/10/20,11/10/20,Merida,Yellow bag in right drawer
+209,APC/Cy7,Isotype,MOPC-173,Mouse IgG2a k,BioLegend,125 uL,5 uL,,400229,1,6/14,,Merida,MHCII + RTE Panel
+210,PE,Isotype,,Mouse IgG2a k,BD,2 mL,20 uL,,555574,1,,12/31/18,Merida,MHCII + RTE Panel
+211,CD2,FITC,,,BD,1 mL,20 uL,,556608,2,4/15/09,2/28/14,Merida,MHCII + RTE Panel
+212,CD4,PerCP-Cy5.5,,,BD,1 mL,20 uL,,552838,1,4/29/20,5/31/21,Merida,MHCII + RTE Panel
+213,CD3,FITC,SK1,Mouse IgG1 k,BioLegend,125 uL,5 uL,,344703,1,5/1/20,?,Merida,MHCII + RTE Panel
+214,CD16,APC,3G8,Mouse IgG1 k,BioLegend,125 uL,5 uL,,302011,1,5/1/20,?,Merida,MHCII + RTE Panel
+215,CD123,,,,,,,,,,7/7/20,,Merida,
+216,IL-22,,,,,,,,,,7/22/20,,Merida,
+217,Secretory protein,,,,,,,,,,7/22/20,,Merida,

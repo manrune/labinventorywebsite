@@ -1,0 +1,130 @@
+1,Trichloroacetic acid,Solid,"H303,H314,H314,H314,H318,H400,H410",115,Chemical Shelf,500g
+2,Sodium azide,Solid,"H300,H300,H310,H310,H373,H400,H410",115,Chemical Shelf,25g
+3,Calcium sulfate,Solid,"H315,H319",115,Chemical Shelf,2kg
+4,Xylenes,Liquid,"H226,H303,H304,H312,H315,H332,H335,H373,H401",0105B,Flammable Cabinet,500mL
+5,Phenol:Chloroform:Isoamyl Alcohol 25:24:1,Liquid,"H301,H312 + H332,H314,H318,H341,H351,H361,H336,H372,H373,H402,H411",0105B,Deli Fridge ,100mL
+6,"Hydrogen peroxide, 28-35% in water",Liquid,"H272,H302,H303,H314,H314,H318,H333,H335,H402,H412",0105B,Deli Fridge ,1L
+7,"Carbon dioxide, gas",,H280,0115D,Not in Specific Location,0.32m3
+8,"Carbon dioxide, gas",,H280,0115D,Not in Specific Location,0.32m3
+9,"Ethanol, 100-189 proof in water",Liquid,"H225,H319",0105B,Flammable Cabinet,500mL
+10,"Carbon dioxide, gas",,H280,0115D,Not in Specific Location,436ft3
+11,Sodium chloride,Solid,,115,Chemical Shelf,2.5kg
+12,"Carbon dioxide, gas",,H280,0115D,Not in Specific Location,436ft3
+13,Potassium permanganate,Solid,"H272,H272,H272,H272,H302,H314,H314,H314,H318,H400,H410",115,Chemical Shelf,500g
+14,Sulfuric acid,Liquid,"H318,H290,H303,H314,H350,H330",107,Acid Cabinet,2.5L
+15,"Carbon dioxide, gas",,H280,0115D,Not in Specific Location,436ft3
+16,"Sodium Hydroxide, 0.1N in water",Liquid,"H314,H402",107,Corrosive Cabinet,500mL
+17,"Ethanol, 100-189 proof in water",Liquid,"H225,H319",0105B,Flammable Cabinet,500mL
+18,"Carbon dioxide, gas",,H280,0115D,Not in Specific Location,436ft3
+19,Xylenes,Liquid,"H226,H303,H304,H312,H315,H332,H335,H373,H401",0105B,Flammable Cabinet,500mL
+20,2-Mercaptoethanol,Liquid,"H227,H301,H310,H310,H315,H317,H317,H317,H318,H331,H335,H373,H400,H410",0105B,Deli Fridge ,50mL
+21,TES sodium salt,Solid,,115,Chemical Shelf,25g
+22,Lithium carbonate,Solid,"H302,H315,H318,H319,H335",115,Chemical Shelf,100g
+23,"Hematoxylin Stain Solution, Gill 2 Formulation, Double Strength",Liquid,"H302,H315,H318,H334,H360,H370,H372,H402",0105B,Not in Specific Location,500mL
+24,"Hematoxylin Stain Solution, Gill 2 Formulation, Double Strength",Liquid,"H302,H315,H318,H334,H360,H370,H372,H402",115,Chemical Shelf,100mL
+25,Chloroform:Isoamyl alcohol 24:1 suitable for nucleic acid purification,Liquid,"H336,H227,H319,H351,H361d,H315,H302,H372,H402,H331",0105B,Flammable Cabinet,100mL
+26,Bromophenol Blue,Solid,,115,Chemical Shelf,25g
+27,Calcium chloride,Solid,"H303,H315,H319",115,Chemical Shelf,100g
+28,"Eosin Y, disodium salt",Liquid,H319,0105B,Not in Specific Location,500mL
+29,TRIzol Reagent,Liquid,"H301,H311,H314,H314,H314,H331,H335,H341,H373,H412",0105B,Deli Fridge ,100mL
+30,QIAzol Lysis Reagent,Liquid,"H301,H311,H331,H314,H341,H373,H412",0105B,Deli Fridge ,50mL
+31,"Ethanol, 190 Proof ",Liquid,"H225,H319",115,Not in Specific Location,5gal
+32,EDTA,Solid,H319,115,Chemical Shelf,25g
+33,Benzo[a]pyrene,Solid,"H316,H334,H334,H334,H340,H340,H350,H350,H360,H360,H400,H410",115,Chemical Shelf,100mg
+34,Brilliant Blue R,Solid,,115,Chemical Shelf,10g
+35,Chloroform:Isoamyl alcohol 24:1 suitable for nucleic acid purification,Liquid,"H336,H227,H319,H351,H361d,H315,H302,H372,H402,H331",0105B,Flammable Cabinet,500mL
+36,Chloroform:Isoamyl alcohol 24:1 suitable for nucleic acid purification,Liquid,"H336,H227,H319,H351,H361d,H315,H302,H372,H402,H331",0105B,Flammable Cabinet,100mL
+37,Chloroform,Liquid,"H302,H315,H319,H331,H351,H372,H402,H301,H341,H361,H336,H335,H370",0105B,Flammable Cabinet,500mL
+38,Isoflurane,Liquid,"H320,H336,H373",0105B,Flammable Cabinet,250mL
+39,TRIzol Reagent,Liquid,"H301,H311,H314,H314,H314,H331,H335,H341,H373,H412",0105B,Deli Fridge ,200mL
+40,Nitrogen (Liquid),Liquid,H280,0115D,Not in Specific Location,148538L
+41,2-Mercaptoethanol,Liquid,"H227,H301,H310,H310,H315,H317,H317,H317,H318,H331,H335,H373,H400,H410",0105B,Fume Hood,25mL
+42,"Formaldehyde, 10 wt % solution in water, methanol-stabilized",Liquid,"H302,H313,H314,H317,H318,H333,H341,H350,H370",0105B,Fume Hood,100mL
+43,Acid-Phenol: Chloroform,Liquid,"H301,H311,H331,H314,H372,H361,H351,H341,H411",0105B,Not in Specific Location,100mL
+44,Acid-Phenol: Chloroform,Liquid,"H301,H311,H331,H314,H372,H361,H351,H341,H411",0105B,Not in Specific Location,100mL
+45,Spectinomycin dihydrochloride pentahydrate,Solid,,0105B,Not in Specific Location,5g
+46,"Glutaraldehyde, <15% aqueous solution",Liquid,"H302,H303,H315,H317,H318,H319,H334,H360,H401,H402,H412",0105B,Deli Fridge ,1L
+47,Pepsin,Solid,"H335,H315,H319,H334,H317",0105B,Not in Specific Location,100g
+48,Acid-Phenol: Chloroform,Liquid,"H301,H311,H331,H314,H372,H361,H351,H341,H411",0105B,Not in Specific Location,100mL
+49,Isopropanol,Liquid,"H225,H316,H319,H336,H373",0105B,Flammable Cabinet,1L
+50,Schiff's reagent,Liquid,"H290,H351",0105B,Not in Specific Location,250mL
+51,Acetone,Liquid,"H316,H319,H336,H361,H225",107,Flammable Cabinet,4L
+52,Acid-Phenol: Chloroform,Liquid,"H301,H311,H331,H314,H372,H361,H351,H341,H411",0105B,Not in Specific Location,100mL
+53,Casein,Solid,,115,Chemical Shelf,500g
+54,Sucrose,Solid,,115,Chemical Shelf,500g
+55,Sephadex G-50,Solid,,115,Chemical Shelf,100g
+56,Sephadex G-50,Solid,,115,Chemical Shelf,500g
+57,Citric acid monohydrate,Solid,H319,115,Chemical Shelf,500g
+58,"Acetic acid, glacial",Liquid,"H226,H303,H318,H314",107,Flammable Cabinet,2.5L
+59,Methanol,Liquid,"H225,H301,H311,H331,H370,H372",107,Flammable Cabinet,4L
+60,"Ethanol, 200 proof",Liquid,"H225,H319,H336,H401",107,Flammable Cabinet,1gal
+61,2-Methylbutane,Liquid,"H224,H304,H336,H401",107,Flammable Cabinet,4L
+62,Boric acid,Solid,"H303,H360,H360",115,Chemical Shelf,500g
+63,Tris base,Solid,"H315,H319,H335",115,Chemical Shelf,1kg
+64,Glycerol,Liquid,"H316,H319,H320",115,Chemical Shelf,1L
+65,EDTA disodium salt dihydrate,Solid,"H303,H332,H373",115,Chemical Shelf,250g
+66,Casein,Solid,,115,Chemical Shelf,500g
+67,Nonidet P-40,Liquid,"H302,H315,H318,H410,H400",115,Chemical Shelf,500mL
+68,"Phosphoric acid, 10% aqueous solution",Liquid,"H318,H290,H314",107,Acid Cabinet,1L
+69,1-Butanol,Liquid,"H226,H302,H313,H315,H318,H333,H335,H336",107,Flammable Cabinet,4L
+70,Sodium phosphate monobasic,Solid,"H315,H319,H320,H335",115,Chemical Shelf,500g
+71,Agarose,Solid,,115,Chemical Shelf,100g
+72,Neutral Red,Solid,,115,Chemical Shelf,25g
+73,Indomethacin,Solid,"H300,H341",115,Chemical Shelf,5g
+74,Cellulose,Solid,H313,115,Chemical Shelf,100g
+75,Glycine,Solid,,115,Chemical Shelf,500g
+76,Xylenes,Liquid,"H226,H303,H304,H312,H315,H332,H335,H373,H401",107,Flammable Cabinet,4L
+77,2-Methylbutane,Liquid,"H224,H304,H336,H401",107,Flammable Cabinet,4L
+78,Sodium hydroxide,Solid,"H290,H314,H318,H335,H402",115,Chemical Shelf,500g
+79,TWEEN 20,Liquid,H316,115,Chemical Shelf,100mL
+80,Sodium dodecyl sulfate,Solid,"H228,H228,H302,H311,H315,H318,H319,H332,H335,H401,H412",115,Chemical Shelf,250g
+81,Xylenes,Liquid,"H226,H303,H304,H312,H315,H332,H335,H373,H401",107,Flammable Cabinet,4L
+82,Xylenes,Liquid,"H226,H303,H304,H312,H315,H332,H335,H373,H401",107,Flammable Cabinet,4L
+83,Sodium butyrate,Solid,"H315,H319,H335",115,Chemical Shelf,250mg
+84,Butyric acid,Liquid,"H227,H302,H314,H318",115,Chemical Shelf,5mL
+85,Methanol,Liquid,"H225,H301,H311,H331,H370,H372",107,Flammable Cabinet,4L
+86,Methanol,Liquid,"H225,H301,H311,H331,H370,H372",107,Flammable Cabinet,4L
+87,Xylenes,Liquid,"H226,H303,H304,H312,H315,H332,H335,H373,H401",107,Flammable Cabinet,4L
+88,EGTA,Solid,H303,115,Chemical Shelf,10g
+89,TWEEN 60,Liquid,,115,Chemical Shelf,1L
+90,"Isopropanol, 70% solution in water",Liquid,"H225,H316,H319,H336",107,Flammable Cabinet,4L
+91,Periodic acid solution 1 g/dL in deionized water,Liquid,"H314,H318",115,Chemical Shelf,8oz
+92,IGEPAL CA-630,Liquid,"H302,H316,H319,H401,H411",115,Chemical Shelf,50mL
+93,Sucrose,Solid,,115,Chemical Shelf,500g
+94,Chloroform,Liquid,"H302,H315,H319,H331,H351,H372,H402,H301,H341,H361,H336,H335,H370",107,Flammable Cabinet,500mL
+95,"Ethanol, 200 proof",Liquid,"H225,H319,H336,H401",107,Flammable Cabinet,1gal
+96,NuSieve GTG Agarose,Solid,,115,Chemical Shelf,125g
+97,Agarose,Solid,,115,Chemical Shelf,100g
+98,Sodium dodecyl sulfate,Solid,"H228,H228,H302,H311,H315,H318,H319,H332,H335,H401,H412",115,Chemical Shelf,500g
+99,Tris hydrochloride,Solid,"H315,H319,H335",115,Chemical Shelf,500g
+100,Hydrocortisone,Solid,H361,115,Chemical Shelf,1g
+101,"Hydrochloric acid, 25-<37% solution in water",Liquid,"H290,H314,H318,H332,H335",107,Acid Cabinet,2.5L
+102,Sodium phosphate dibasic,Solid,"H316,H320",115,Chemical Shelf,500g
+103,NuSieve GTG Agarose,Solid,,115,Chemical Shelf,125g
+104,Triton X-100,Liquid,"H302,H316,H318,H319,H401,H411",115,Chemical Shelf,50mL
+105,N-Lauroylsarcosine sodium salt,Solid,"H315,H318,H330,H330",115,Chemical Shelf,100g
+106,Potassium chloride,Solid,H303,115,Chemical Shelf,500g
+107,Sodium citrate,Solid,,115,Chemical Shelf,500g
+108,Magnesium chloride hexahydrate,Solid,,115,Chemical Shelf,500g
+109,Potassium phosphate monobasic,Solid,"H313,H315,H319",115,Chemical Shelf,500g
+110,Ammonium sulfate,Solid,"H303,H316,H320,H402,H412",115,Chemical Shelf,3kg
+111,TWEEN 20,Liquid,H316,115,Chemical Shelf,100mL
+112,3-Methylbutanol,Liquid,"H226,H313,H315,H319,H332,H335",107,Flammable Cabinet,500mL
+113,Agarose,Solid,,115,Chemical Shelf,100g
+114,Agarose,Solid,,115,Chemical Shelf,100g
+115,Perfluorooctane,Liquid,,115,Chemical Shelf,25mL
+116,"Formalin, Buffered, 10% (Acetate Buffer/Certified), Fisher Chemical ",Liquid,,0105B,Fume Hood,500mL
+117,Carbonate-Bicarbonate Buffer capsule,Solid,"H319,H316",115,Chemical Shelf,8other
+118,"Formalin, Buffered, 10% (Acetate Buffer/Certified), Fisher Chemical ",Liquid,,0105B,Fume Hood,500mL
+119,Periodic acid solution 1 g/dL in deionized water,Liquid,"H314,H318",115,Chemical Shelf,250mL
+120,Isopropanol,Liquid,"H225,H316,H319,H336,H373",107,Flammable Cabinet,4L
+121,Isopropanol,Liquid,"H225,H316,H319,H336,H373",107,Flammable Cabinet,4L
+122,Chloramine-T hydrate,Solid,"H334,H314,H318,H401",115,Chemical Shelf,100g
+123,PIPES,Solid,,115,Chemical Shelf,100g
+124,Tris hydrochloride,Solid,"H315,H319,H335",115,Chemical Shelf,500g
+125,Sodium acetate trihydrate,Solid,,115,Chemical Shelf,2.5kg
+126,4-(Dimethylamino)benzaldehyde,Solid,"H302,H315,H319,H335",115,Chemical Shelf,25g
+127,trans-4-Hydroxy-L-proline,Solid,,115,Chemical Shelf,2.5g
+128,Dimethyl sulfoxide,Liquid,"H227,H320,H373",0115D,Not in Specific Location,100mL
+129,Retinoic acid,Solid,"H302,H313,H401",0115D,Not in Specific Location,50mg
+130,Perchloric acid aqueous solution 70%,Liquid,"H314,H318,H302,H271,H314,H290,H302 + H312,H373",107,Acid Cabinet,100mL
